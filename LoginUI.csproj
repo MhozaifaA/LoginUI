@@ -125,6 +125,7 @@
   <ItemGroup>
     <Content Include="Resource\icon\eye.png" />
     <Content Include="Resource\icon\mascara.png" />
+    <Content Include="Resource\ui.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
